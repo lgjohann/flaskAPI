@@ -16,6 +16,9 @@ git clone https://github.com/lgjohann/flaskAPI.git
 // instalar dependencias
 pip install -r requeriments.txt
 
+// criar ambiente virtual
+py -m venv .venv
+
 // ativar ambiente virtual
 source .venv/Scripts/Activate
 
